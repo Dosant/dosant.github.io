@@ -1,11 +1,13 @@
 {
-  "main.css": "static/css/main.3d17a7b3.css",
-  "main.css.map": "static/css/main.3d17a7b3.css.map",
-  "main.js": "static/js/main.e90a5025.js",
-  "main.js.map": "static/js/main.e90a5025.js.map",
+  "main.css": "static/css/main.c63f06fc.css",
+  "main.css.map": "static/css/main.c63f06fc.css.map",
+  "main.js": "static/js/main.45ece630.js",
+  "main.js.map": "static/js/main.45ece630.js.map",
   "static/media/event.jpg": "static/media/event.33e47f0b.jpg",
+  "static/media/food.jpg": "static/media/food.b4afb569.jpg",
   "static/media/grass.jpg": "static/media/grass.9b2c30db.jpg",
   "static/media/practice.jpg": "static/media/practice.e7960c9a.jpg",
   "static/media/slick.svg": "static/media/slick.f97e3bbf.svg",
+  "static/media/workout.jpg": "static/media/workout.3ac79e68.jpg",
   "static/media/yoga_white.svg": "static/media/yoga_white.8164a687.svg"
 }
